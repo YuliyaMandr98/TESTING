@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LMStest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliyaMandr98/TESTING.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YuliyaMandr98/TESTING/issues"
+  },
+  "homepage": "https://github.com/YuliyaMandr98/TESTING#readme",
+  "devDependencies": {
+    "k6-html-reporter": "^1.0.5"
+  }
+}

@@ -1,0 +1,22 @@
+# Общее
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea/
+.vscode/
+
+# Фреймворки
+/target/          # Java (Maven)
+/node_modules/    # JS
+/venv/           # Python
+
+# Артефакты тестов
+/reports/        # Allure, JUnit
+/screenshots/    # Selenium
+/coverage/       # Покрытие кода
+
+# Конфиги с чувствительными данными
+*.env
+*.secret
+config/local.yml
